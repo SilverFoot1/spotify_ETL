@@ -7,3 +7,4 @@ Database:
 
 ![Untitled Diagram](https://user-images.githubusercontent.com/80291504/127564216-aa34d013-4db4-4760-b830-ef0ffd055dd6.jpg)
 
+Due to limitations set by the api, only up to 20 songs can be retrieved. Track, album and artist duplicates aren't stored.  
